@@ -16,6 +16,7 @@
  - FichaMineSkills
  - HolyCore
  - HolyExpKeeper
+ - HolyLiteEnd
  - HolyPvP
  - LiteBinds
  - LiteExcnage
@@ -24,6 +25,7 @@
  - PlayTimeAPI
  - Shame
  - StickHWCustom
+ - StickHWStar
 
 Как настраивать БД можно посмотреть тут: https://youtu.be/frwgah_3_b8?si=FBXI2j6Csa906nb3
 
@@ -94,6 +96,8 @@
 - Выдать осколочные яйца: /eggkeeper give
 - Выдать рюкзак: /holybackpack give <ник> <уровень рюкзака 1/2/3/4/5> <количество>
 - Выдать кейсы: /hc
+- Выдать звезду звезду: /star
+- Выдача Лук БамБук: /bambuk give <ник>
 - Выдать загадочное яйцо: /holycustomeggs (aliases /hce)
 - Выдать золотой спанвре: /holygoldspawner (aliases /hgs)
 - Выдать кастомное зачарование: /holyEnchantments
@@ -109,7 +113,7 @@
 - Выдать привилегию /lp user <ник> parent set <привилегия> (Более подробнее об LuckPerms посмотрите ютуб)
 - Выдать сапфиры: /p give <ник> <количество>
 - Посмотреть сколько игрок наиграл: /playtime <игрок>
-- Сохранить/выдать предмет: /saveitems (aliases /si)
+- Сохранить/выдать кастомный предмет: /saveitems (aliases /si)
 - Выдать бан через shame или трол: /shame
 - Выдать кастомный динамит: /holytnt give <ник> <динамит> <количество>, или можно заспавнить динамитом сразу /holytnt summon 
 
